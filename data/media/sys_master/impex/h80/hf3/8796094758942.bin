@@ -1,0 +1,10 @@
+INSERT_UPDATE GiftWrap;code[unique=true];GiftType(code)[default='Standard'];cost;description
+;A001;Standard;5;gift wrap cost 5 for standard
+;A002;Premium;2;gift wrap cost 2 for Premium
+;A003;Standard;5;gift wrap cost 5 for standard
+;A004;Premium;2;gift wrap cost 2 for Premium
+;A005;Premium;2;gift wrap cost 2 for Premium
+;A006;Premium;2;gift wrap cost 2 for Premium
+;A007;Standard;5;gift wrap cost 5 for standard
+
+
