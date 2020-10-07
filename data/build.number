@@ -1,9 +1,9 @@
 #Ant properties
-#Tue Oct 06 16:47:54 IST 2020
+#Wed Oct 07 15:04:38 IST 2020
 build.version=1905.0
 build.vendor=hybris
 build.group.id=de.hybris.platform
 build.module.name=platform-module
-build.builddate=20201006 1647
+build.builddate=20201007 1504
 build.version.api=1905
 build.releasedate=20190524 1248
